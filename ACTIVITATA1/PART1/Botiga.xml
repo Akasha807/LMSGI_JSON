@@ -2,17 +2,20 @@
 <!-- Es una botiga de maquillatge de la marca DIOR. Aquesta marca acostuma a vendre productes de bellesa i cures de la pell. -->
 <botiga marca="DIOR">
     <!-- Hi ha diferents seccions per a cada producte i codi. -->
-    <Producte codi="A001" seccio="Maquillatge">
+    <Producte codi="A001" seccio="Maquillatge" Disponibilitat="Esgotat">
         <Nom>Rouge Dior</Nom>
         <Descripcio>Barra de llavis color couture amb acabats vellutats, satinats i llarga durada</Descripcio>
         <Preu moneda="EUR">449,00 €</Preu>
         <Categoria>Labial</Categoria>
+        <Disponibilitat>Esgotat</Disponibilitat>
+        <imatge></imatge>
     </Producte>
 
-    <Producte codi="A002" seccio="Maquillatge">
+    <Producte codi="A002" seccio="Maquillatge" Disponibilitat="En estoc">
         <Nom>Dior Backstage Eye Palette</Nom>
         <Descripcio>Paleta d'ulls amb ombres d'ulls ultrapigmentades i multiacabat</Descripcio>
         <Preu moneda="EUR">57,00 €</Preu>
         <Categoria>Paleta de Sombras</Categoria>
+        <Imatge></Imatge>
     </Producte>
 </botiga>
