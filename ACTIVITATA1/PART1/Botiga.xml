@@ -4,7 +4,7 @@
     <!-- Hi ha diferents seccions per a cada producte i codi. -->
     <Producte codi="A001" seccio="Maquillatge">
         <Nom>Rouge Dior</Nom>
-        <Descripcio>Barra de llavis color couture amb acabats vellutats, satinats i nou vel - tractament floral hidratant - llarga durada</Descripcio>
+        <Descripcio>Barra de llavis color couture amb acabats vellutats, satinats i llarga durada</Descripcio>
         <Preu moneda="EUR">449,00 €</Preu>
         <Categoria>Labial</Categoria>
     </Producte>
