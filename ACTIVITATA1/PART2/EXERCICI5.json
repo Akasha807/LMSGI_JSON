@@ -3,79 +3,79 @@
         {
             "pokemonEntry": {
                 "id": 1,
-                "nombre": "Pikachu",
-                "tipos": [
+                "nom": "Pikachu",
+                "tipus": [
                     {
-                        "tipo": "Eléctrico"
+                        "tipus": "Elèctric"
                     }
                 ],
-                "peso": {
-                    "unidad": "kg",
+                "pes": {
+                    "unitat": "kg",
                     "valor": 6.0
                 },
-                "altura": {
-                    "unidad": "cm",
+                "alçada": {
+                    "unitat": "cm",
                     "valor": 40
                 },
-                "estadisticas": {
-                    "velocidad": 90,
-                    "fortaleza": 55,
-                    "precision": 100,
-                    "resistencia": 40
+                "estadístiques": {
+                    "velocitat": 90,
+                    "força": 55,
+                    "precisió": 100,
+                    "resistència": 40
                 },
-                "movimientos": [
+                "moviments": [
                     {
-                        "nombre": "Impactrueno",
-                        "descripcion": "Ataca con un trueno rápido",
-                        "potencia": 40,
-                        "contacto": true
+                        "nom": "Impactrueno",
+                        "descripció": "Ataca amb un tro ràpid",
+                        "potència": 40,
+                        "contacte": true
                     },
                     {
-                        "nombre": "Ataque rápido",
-                        "descripcion": "Ataca al oponente con gran velocidad",
-                        "potencia": 40,
-                        "contacto": true
+                        "nom": "Atac ràpid",
+                        "descripció": "Ataca l'oponent amb gran velocitat",
+                        "potència": 40,
+                        "contacte": true
                     }
                 ],
-                "imagen": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png",
-                "evoluciones": [
+                "imatge": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/026.png",
+                "evolucions": [
                     {
                         "id": 26,
-                        "nombre": "Raichu",
-                        "tipos": [
+                        "nom": "Raichu",
+                        "tipus": [
                             {
-                                "tipo": "Eléctrico"
+                                "tipus": "Elèctric"
                             }
                         ],
-                        "peso": {
-                            "unidad": "kg",
+                        "pes": {
+                            "unitat": "kg",
                             "valor": 30.0
                         },
-                        "altura": {
-                            "unidad": "cm",
+                        "alçada": {
+                            "unitat": "cm",
                             "valor": 80
                         },
-                        "estadisticas": {
-                            "velocidad": 110,
-                            "fortaleza": 85,
-                            "precision": 100,
-                            "resistencia": 50
+                        "estadístiques": {
+                            "velocitat": 110,
+                            "força": 85,
+                            "precisió": 100,
+                            "resistència": 50
                         },
-                        "movimientos": [
+                        "moviments": [
                             {
-                                "nombre": "Rayo",
-                                "descripcion": "Ataca con una descarga eléctrica poderosa",
-                                "potencia": 90,
-                                "contacto": false
+                                "nom": "Raig",
+                                "descripció": "Ataca amb una descàrrega elèctrica poderosa",
+                                "potència": 90,
+                                "contacte": false
                             },
                             {
-                                "nombre": "Puño trueno",
-                                "descripcion": "Golpea al enemigo con un puño electrificado",
-                                "potencia": 75,
-                                "contacto": true
+                                "nom": "Cop de puny elèctric",
+                                "descripció": "Colpeja l'enemic amb un puny electrificat",
+                                "potència": 75,
+                                "contacte": true
                             }
                         ],
-                        "imagen": "https://link_a_imagen.com/raichu.png"
+                        "imatge": "https://link_a_imagen.com/raichu.png"
                     }
                 ]
             }
